@@ -43,12 +43,12 @@ void main(int argc, char *argv[])
 	}
 	if (!iffn)
 	{
-		cout << "Ââåäèòå èìÿ ôàéëà: " << endl;
+		cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð¸Ð¼Ñ Ñ„Ð°Ð¹Ð»Ð°: " << endl;
 		cin >> FileName;
 	}
 	if (!ifn)
 	{
-		cout << "Ââåäèòå ÷èñëî: ";
+		cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ñ‡Ð¸ÑÐ»Ð¾: ";
 		cin >> n;
 	}
 	int ar[100][100], i = 0, j = n - 1, k = 1, key = -1;
