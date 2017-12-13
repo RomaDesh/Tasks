@@ -1,7 +1,6 @@
 #include <iostream>
 #include <fstream>
 #include <clocale>
-#include <cstdio>
 #include <cstring>
 #include <sstream>
 
